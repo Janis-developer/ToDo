@@ -1,0 +1,36 @@
+{
+  "ToDoList": [
+    {
+      "Name": "Teach my dog to sky surf",
+      "Status": false
+    },
+    {
+      "Name": "Learn programming in all the languages",
+      "Status": false
+    },
+    {
+      "Name": "Ascend a volcano",
+      "Status": true
+    },
+    {
+      "Name": "Sail the ocean",
+      "Status": false
+    },
+    {
+      "Name": "20 pull-ups 40 push-ups",
+      "Status": true
+    },
+    {
+      "Name": "Swim on Canary islands on my Birhtday",
+      "Status": true
+    },
+    {
+      "Name": "Travel all around the world",
+      "Status": false
+    }
+    {
+      "Name": "Help my son",
+      "Status": false
+    }
+  ]
+}
